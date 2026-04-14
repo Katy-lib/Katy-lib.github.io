@@ -21,4 +21,4 @@
 ---
 
 ## 📫 Contact
-* [Email Me](khwarnyotheint@gmail.com)
+* khwarnyotheint@gmail.com
