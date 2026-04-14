@@ -4,7 +4,7 @@
 ---
 
 ## 🎓 Education
-* **Information Technology(Currently Studying) ** Payap University
+* **Information Technology(Currently Studying)**
 
 ## 🛠 Technical Skills
 * **Programming:** Java, Ruby
