@@ -1,20 +1,21 @@
 # Katy
-**Computer Science Student | Payap University**
+**Information Technology Student | Payap University**
 
 ---
 
 ## 🎓 Education
-* **BSc Computer Science** Payap University
+* **Information Technology(Currently Studying) ** Payap University
 
 ## 🛠 Technical Skills
-* **Programming:** Java, Kotlin, Python, Ruby
+* **Programming:** Java, Ruby
 * **Web:** HTML, CSS
-* **Databases:** SQL, MariaDB
-* **Version Control:** Git, GitHub
+* **Databases:** SQL
+* **Version Control:** GitHub
 
 ## 🚀 Experience
 ### Expense Tracker Project
-* Developed a personal finance tracking application.
+### Vending Machine Simulator(Java)
+
 * Focused on clean code and efficient data management.
 
 ---
